@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <br/>
 <p align="left">
+<a href="https://ankit-singh-portfolio-t.netlify.app/">Portfolio</a>
 <a href="https://linkedin.com/in/ankit-singh-265a80182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-singh-265a80182" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ankitsingh5282770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitsingh5282770" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ankitsingh5282770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankitsingh5282770" height="30" width="40" /></a>
