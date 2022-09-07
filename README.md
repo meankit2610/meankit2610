@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React , Redux(Frontend)**
 
-- 👨‍💻 All of my projects are available at [https://ankit-singh-portfolio-t.netlify.app/](PortFolio)
+- 👨‍💻 All of my projects are available at <a href="https://ankit-singh-portfolio-t.netlify.app/">Portfolio</a>
 
 - <a href="https://drive.google.com/file/d/1gI1z4WOPV8l5MbnopsexnDTlG9EpI7Ph/view?usp=sharing">My Resume</a>
 
