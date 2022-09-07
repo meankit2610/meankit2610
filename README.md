@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **React , Redux(Frontend)**
 
-- 👨‍💻 All of my projects are available at [www.google.com](www.google.com)
+- 👨‍💻 All of my projects are available at [https://ankit-singh-portfolio-t.netlify.app/](PortFolio)
+
+- My Resume [https://drive.google.com/file/d/1gI1z4WOPV8l5MbnopsexnDTlG9EpI7Ph/view?usp=sharing]
 
 - 📫 How to reach me **ankitsingh5282770@gmail.com**
 
