@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ankit-singh-portfolio-t.netlify.app/](PortFolio)
 
-- My Resume [https://drive.google.com/file/d/1gI1z4WOPV8l5MbnopsexnDTlG9EpI7Ph/view?usp=sharing]
+- <a href="https://drive.google.com/file/d/1gI1z4WOPV8l5MbnopsexnDTlG9EpI7Ph/view?usp=sharing">My Resume</a>
 
 - 📫 How to reach me **ankitsingh5282770@gmail.com**
 
