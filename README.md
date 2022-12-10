@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://ankit-singh-portfolio-pi.vercel.app/">Portfolio</a>
 
-- <a href="https://drive.google.com/file/d/1gI1z4WOPV8l5MbnopsexnDTlG9EpI7Ph/view?usp=sharing">My Resume</a>
+- <a href="https://drive.google.com/drive/folders/1NLjz6KeesIkcBjlxq0agrNdqSlF_CGvT?usp=share_link">My Resume</a>
 
 - 📫 How to reach me **ankitsingh5282770@gmail.com**
 
